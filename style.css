@@ -1,16 +1,15 @@
-textarea{
-    width: 70%;
-   display: block;
-   margin: 1rem;
-   padding: 2rem;
- 
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
 }
 
-#output{
-
+#output {
     border: 1px solid black;
     height: 10vh;
-    width: 70%;
+    width: 80%;
     margin: 1rem;
-    padding: 2rem;
+    padding: 1rem;
 }
